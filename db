@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sergiy",
+      "balance": 3000
+    },
+    {
+      "id": 2,
+      "name": "Yegor",
+      "balance": 2000
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "butter",
+      "price": 60
+    },
+    {
+      "id": 2,
+      "name": "bread",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "milk",
+      "price": 25
+    },
+    {
+      "id": 4,
+      "name": "water",
+      "price": 15
+    }
+  ]
+}
