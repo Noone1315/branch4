@@ -3,7 +3,7 @@ header{
 	display: flex;
 	justify-content: space-between;
 }
-#container{
+main{
 	height: 500px;
 	display: grid;
 	grid-auto-rows: 1rem 1rem 1rem 1rem;
